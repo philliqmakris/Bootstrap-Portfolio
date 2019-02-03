@@ -1,0 +1,25 @@
+body {
+    background-color: black !important;
+    font-family: Georgia, Serif !important;
+    color: rgb(39, 207, 185) !important;
+    background-image: url("https://i.imgur.com/drjpIis.jpg") !important;
+}
+
+.auth-image {
+    height: 350px !important;
+    width: 350px !important;
+    padding: 5px !important;
+    border: 10px !important;
+    border-color: black !important;
+    margin: 5px !important;
+}
+
+h1 {
+    font-size: 80px !important;
+    text-align: center !important;
+}
+
+h2 {
+    font-size: 70px !important;
+    
+}
